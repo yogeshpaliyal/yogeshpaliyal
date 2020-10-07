@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, my name is Yogesh Choudhary Paliyal
+### Hi there 👋 , my name is Yogesh Choudhary Paliyal
 #### Developer by profession. Geek by passion.
 ### I've 3+ Years of native Android Development.
 
@@ -23,7 +23,7 @@ Skills: Android / Kotlin / Java
 - 👯  I’m looking to collaborate on Android projects
 - 💬  Ask me about Android and Kotlin
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yogeshpaliyal) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yogeshpaliyal/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/yogeshpaliyal/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='Stackoverflow' height='40'>](https://stackoverflow.com/users/7955352/yogesh-paliyal)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/yogeshpaliyal) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/yogeshpaliyal/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/yogeshpaliyal/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='Stackoverflow' height='30'>](https://stackoverflow.com/users/7955352/yogesh-paliyal)
 
 ![Profile views](https://gpvc.arturio.dev/yogeshpaliyal)
 
