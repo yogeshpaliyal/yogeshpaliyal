@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋 , my name is Yogesh Choudhary Paliyal
-#### Developer by profession. Geek by passion.
-### I've 3+ Years of native Android Development.
+#### Google Certified Associate Android Developer
+##### Developer by profession & Passion
 
 Skills: Android / Kotlin / Java
 
