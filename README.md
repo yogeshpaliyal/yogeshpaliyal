@@ -17,9 +17,15 @@ Here are some ideas to get you started:
 #### Google Certified Associate Android Developer
 ##### Developer by profession & Passion
 
-Skills: Android / Kotlin / Java
 
-- 💻  I’m currently learning Jetpack Compose
+**Languages and Tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+
+- 💻  I’m currently learning Jetpack Compose, FLutter
 - 👯  I’m looking to collaborate on Android projects
 - 💬  Ask me about Android and Kotlin
 
