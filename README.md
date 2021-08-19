@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋 , my name is Yogesh Choudhary Paliyal
+### Hi there 👋 , I am Yogesh Choudhary Paliyal
 #### Google Certified Associate Android Developer
 ##### Developer by profession & Passion
 
