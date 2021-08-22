@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshpaliyal&layout=compact" />
 
 </div>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshpaliyal&count_private=true" alt="yogeshpaliyal" /></p>
+  <center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshpaliyal&count_private=true" alt="yogeshpaliyal" /></center>
