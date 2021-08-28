@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 , I am Yogesh Choudhary Paliyal
 #### Google Certified Associate Android Developer
-##### Developer by profession & Passion
-
+##### Developer by Profession & Passion
+##### Love to contribute in Open Source 
 
 **Languages and Tools:**  
 
@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 
-- 💻  I’m currently learning Jetpack Compose, FLutter
+- 💻  I’m currently learning Jetpack Compose, Flutter 💙
 - 👯  I’m looking to collaborate on Android projects
-- 💬  Ask me about Android and Kotlin
+- 💬  Ask me about Android and Kotlin 💚💜
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/yogeshpaliyal) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/yogeshpaliyal/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/yogeshpaliyal/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='Stackoverflow' height='30'>](https://stackoverflow.com/users/7955352/yogesh-paliyal)
 
