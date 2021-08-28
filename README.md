@@ -1,24 +1,11 @@
-<!--
-**yogeshpaliyal/yogeshpaliyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi 👋 , I am Yogesh Choudhary Paliyal
+***Google Certified Associate Android Developer***  
+*Developer by Profession & Passion*  
+*Love to contribute in Open Source*
 
-### Hi there 👋 , I am Yogesh Choudhary Paliyal
-#### Google Certified Associate Android Developer
-##### Developer by Profession & Passion
-##### Love to contribute in Open Source 
-
-**Languages and Tools:**  
+### **⚒️ Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
@@ -30,19 +17,26 @@ Here are some ideas to get you started:
 - 👯  I’m looking to collaborate on Android projects
 - 💬  Ask me about Android and Kotlin 💚💜
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/yogeshpaliyal) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/yogeshpaliyal/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/yogeshpaliyal/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='Stackoverflow' height='30'>](https://stackoverflow.com/users/7955352/yogesh-paliyal)
+
+### 🤝 Connect with me 
+[<img src='https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667' alt='twitter' height='30'>](https://twitter.com/yogeshpaliyal) [<img src='https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667' alt='linkedin' height='30'>](https://www.linkedin.com/in/yogeshpaliyal/) [<img src='https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667' alt='instagram' height='30'>](https://www.instagram.com/yogeshpaliyal/) [<img src='https://camo.githubusercontent.com/ad1dcdc76b0be1423e54a791d31311e91e8e89bb8492be214cfc3390e24c323d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f737461636b6f766572666c6f772e737667' alt='Stackoverflow' height='30'>](https://stackoverflow.com/users/7955352/yogesh-paliyal)
 
 ![Profile views](https://gpvc.arturio.dev/yogeshpaliyal)
 
+<center>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=yogeshpaliyal&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yogeshpaliyal&column=6" width="100%"/>
 </a>
+ </center>
 
 ---
 
 <div>
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=yogeshpaliyal&count_private=true&include_all_commits=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshpaliyal&layout=compact" />
-
+<img height="170" width="49%" src="https://github-readme-stats.vercel.app/api?username=yogeshpaliyal&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshpaliyal&layout=compact" width="50%" height="170"/>
 </div>
-  <center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshpaliyal&count_private=true" alt="yogeshpaliyal" /></center>
+
+<center>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshpaliyal&count_private=true" width="50%" alt="yogeshpaliyal" height="170" />
+  </center
+
