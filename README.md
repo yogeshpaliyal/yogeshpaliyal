@@ -32,11 +32,11 @@
 ---
 
 <div>
-<img height="170" width="49%" src="https://github-readme-stats.vercel.app/api?username=yogeshpaliyal&count_private=true&include_all_commits=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshpaliyal&layout=compact" width="50%" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yogeshpaliyal&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshpaliyal&layout=compact" />
 </div>
 
 <center>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshpaliyal&count_private=true" width="50%" alt="yogeshpaliyal" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshpaliyal&count_private=true" alt="yogeshpaliyal" />
   </center
 
