@@ -6,7 +6,7 @@
 *Love to contribute in Open Source*
 
 
-- 💻  I’m currently learning Jetpack Compose, Flutter 💙
+- 💻  I’m currently learning Jetpack Compose
 - 👯  I’m looking to collaborate on Android projects
 - 💬  Ask me about Android and Kotlin 💚💜
 
