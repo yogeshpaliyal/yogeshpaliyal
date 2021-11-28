@@ -33,18 +33,24 @@
 
 <center>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=yogeshpaliyal&column=6" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yogeshpaliyal&column=6" width="60%"/>
 </a>
  </center>
 
 ---
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=yogeshpaliyal&count_private=true&include_all_commits=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshpaliyal&layout=compact" />
-</div>
+<table border="0px" style="border:0px">
+  <tr>
+  <td>
+<img src="https://github-readme-stats.vercel.app/api?username=yogeshpaliyal&count_private=true&include_all_commits=true" />    
+    </td>
+    <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshpaliyal&count_private=true" alt="yogeshpaliyal" />
+    </td>
+  
+  </tr>
+  </table>  
 
-<center>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshpaliyal&count_private=true" alt="yogeshpaliyal" />
-  </center
-
+<div  align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshpaliyal&layout=compact" />
+  </div>
