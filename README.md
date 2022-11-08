@@ -26,7 +26,7 @@
 ### 🤝 Connect with me 
 <a href="https://bit.ly/gh-yogeshpaliyal-twitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-Yogesh_Paliyal-00acee?style=for-the-badge&logo=twitter" alt="twitter"></a>  <a href="https://bit.ly/gt-yogeshpaliyal-insta" target="_blank"><img src="https://img.shields.io/badge/Instagram-Yogesh_Paliyal-E1306C?style=for-the-badge&logo=Instagram" alt="Instagram"></a>  
 <a href="https://bit.ly/gt-yogeshpaliyal-sto" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-Yogesh%20Paliyal-ef8236?style=for-the-badge&logo=Stackoverflow" alt="Stackoverflow"></a> <a href="https://bit.ly/gt-yogeshpaliyal-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Yogesh%20Paliyal-0e76a8?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>   
-
+<a rel="me" href="https://androiddev.social/@yogeshpaliyal">AndroidDev.social</a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyogeshpaliyal&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://yogeshpaliyal.com)  
 ![Profile views](https://gpvc.arturio.dev/yogeshpaliyal)  
