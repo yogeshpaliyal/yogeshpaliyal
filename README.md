@@ -57,3 +57,5 @@
 
 
 [![@yogeshpaliyal's Holopin board](https://holopin.io/api/user/board?user=yogeshpaliyal)](https://holopin.io/@yogeshpaliyal)
+
+[![Check out yogeshpaliyal's profile on stardev.io](https://stardev.io/developers/yogeshpaliyal/badge/languages/country.svg)](https://stardev.io/developers/yogeshpaliyal)
