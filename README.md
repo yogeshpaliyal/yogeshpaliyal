@@ -24,6 +24,7 @@
 
 
 ### 🤝 Connect with me 
+<a href="https://androiddev.social/@yogeshpaliyal" target="_blank"><img src="https://img.shields.io/badge/Mastodon-Yogesh_Paliyal-3DDC84?style=for-the-badge&logo=mastodon" alt="mastodon"></a> 
 <a href="https://bit.ly/gh-yogeshpaliyal-twitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-Yogesh_Paliyal-00acee?style=for-the-badge&logo=twitter" alt="twitter"></a>  <a href="https://bit.ly/gt-yogeshpaliyal-insta" target="_blank"><img src="https://img.shields.io/badge/Instagram-Yogesh_Paliyal-E1306C?style=for-the-badge&logo=Instagram" alt="Instagram"></a>  
 <a href="https://bit.ly/gt-yogeshpaliyal-sto" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-Yogesh%20Paliyal-ef8236?style=for-the-badge&logo=Stackoverflow" alt="Stackoverflow"></a> <a href="https://bit.ly/gt-yogeshpaliyal-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Yogesh%20Paliyal-0e76a8?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>   
 <a rel="nofollow me" href="https://androiddev.social/@yogeshpaliyal">AndroidDev.social</a>
