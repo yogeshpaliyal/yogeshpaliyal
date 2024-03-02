@@ -6,8 +6,8 @@
 *Love to contribute in Open Source*
 
 
-- 💻  I’m currently learning Jetpack Compose
-- 👯  I’m looking to collaborate on Android projects
+- 💻  I’m currently working on Android, React Native and React Js.
+- 👯  I’m looking to collaborate on Android, KMM and React projects
 - 💬  Ask me about Android and Kotlin 💚💜
 
 ### **⚒️ Languages and Tools:**  
