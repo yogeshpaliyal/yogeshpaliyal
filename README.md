@@ -7,7 +7,7 @@
 
 
 - 💻  I’m currently working on Android, React Native and React Js.
-- 👯  I’m looking to collaborate on Android, KMM and React projects
+- 👯  I’m looking to collaborate on Android, KMP and React projects
 - 💬  Ask me about Android and Kotlin 💚💜
 
 ### **⚒️ Languages and Tools:**  
